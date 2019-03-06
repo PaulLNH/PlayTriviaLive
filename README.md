@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dd9189b6-7a46-448a-a8d9-b3e737d9df1f/deploy-status)](https://app.netlify.com/sites/playtrivialive/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dd9189b6-7a46-448a-a8d9-b3e737d9df1f/deploy-status)](https://app.netlify.com/sites/playtrivialive/deploys)  ![GitHub](https://img.shields.io/github/license/PaulLNH/PlayTriviaLive.svg?style=popout)  ![Discord](https://img.shields.io/discord/420643468692553728.svg?style=popout-square)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
