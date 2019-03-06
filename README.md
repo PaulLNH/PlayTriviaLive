@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dd9189b6-7a46-448a-a8d9-b3e737d9df1f/deploy-status)](https://app.netlify.com/sites/playtrivialive/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
